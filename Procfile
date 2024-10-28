@@ -1,1 +1,1 @@
-web: docker-php-entrypoint apache2-foreground
+web: heroku-php-apache2 .
